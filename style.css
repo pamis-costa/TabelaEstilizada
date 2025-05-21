@@ -1,10 +1,15 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #fdf6e3; 
+  background-color: #fdf6e3;
+  background-image: url("https://cdn.wallpapersafari.com/83/87/BeVrE6.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   margin: 20px;
   text-align: center;
-  color: #657b83; 
+  color: #657b83;
 }
+
 
 h1 {
   font-size: 30px;
@@ -18,7 +23,7 @@ table {
 }
 
 .titulo-tabela {
-  background-color: #eee8d5;
+  background-color: #e7e6e2;
   font-size: 25px;
   border-radius: 8px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
